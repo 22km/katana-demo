@@ -1,0 +1,10 @@
+base:
+  mode: debug
+  port: 8088
+  goMaxProcs: 2
+
+log:
+  logDir: ./log
+  logName: katana-demo
+  publicLogDir: ./log/public
+  publicLogName: katana-demo-public
